@@ -65,7 +65,7 @@ Passionate about clean architecture, performance, and real-world impact.
 ## 📫 Contact
 
 - GitHub: https://github.com/kennest
-- Email: your-email@example.com
+- Email: oulai.davis.pro@gmail.com
 
 ---
 
